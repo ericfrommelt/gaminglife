@@ -1,0 +1,31 @@
+{
+  "games": [
+    {
+      "title": "Pitfall 2",
+      "platform": "Atari 2600",
+      "difficulty": 4,
+      "hours": 36,
+      "year": "1984",
+      "joy": 6,
+      "image": ""
+    },
+    {
+      "title": "Super Mario Brothers",
+      "platform": "NES",
+      "difficulty": 7,
+      "hours": 213,
+      "year": "1987",
+      "joy": 9,
+      "image": ""
+    },
+    {
+      "title": "Metroid Prime",
+      "platform": "GameCube",
+      "difficulty": 8,
+      "hours": 129,
+      "year": "2003",
+      "joy": 10,
+      "image": ""
+    }
+  ]
+}
